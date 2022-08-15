@@ -1,0 +1,9 @@
+/home/ptrayi/dataset/processed/dentist_office_0002/intensity_0851.mat
+/home/ptrayi/dataset/processed/bookstore_0001g/intensity_0601.mat
+/home/ptrayi/dataset/processed/living_room_0010/intensity_1671.mat
+/home/ptrayi/dataset/processed/living_room_0010/intensity_1371.mat
+/home/ptrayi/dataset/processed/bedroom_0010/intensity_0001.mat
+/home/ptrayi/dataset/processed/dentist_office_0002/intensity_0711.mat
+/home/ptrayi/dataset/processed/kitchen_0010/intensity_0911.mat
+/home/ptrayi/dataset/processed/living_room_0010/intensity_1401.mat
+/home/ptrayi/dataset/processed/living_room_0010/intensity_0771.mat

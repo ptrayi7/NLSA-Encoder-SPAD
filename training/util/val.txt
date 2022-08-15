@@ -1,0 +1,15 @@
+bathroom_0010/
+bedroom_0010/
+bookstore_0001g/
+cafe_0001c/
+computer_lab_0002/
+conference_room_0002/
+basement_0001c/
+dentist_office_0002/
+dining_room_0010/
+foyer_0001/
+firniture_store_0002d/
+home_office_0010/
+kitchen_0010/
+library_0006/
+living_room_0010/
