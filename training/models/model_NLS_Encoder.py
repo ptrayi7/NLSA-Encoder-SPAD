@@ -170,9 +170,9 @@ class DimensionReuctionNLSA_i(nn.Module):
         return drnlsaout
 
 
-class DimensionReuctionNLSA(nn.Module):
+class NLSA_Encoder(nn.Module):
     def __init__(self):
-        super(DimensionReuctionNLSA, self).__init__()
+        super(NLSA_Encoder, self).__init__()
         self.drnlsa = DRNLSA(1024, 1, 0)
         self.drnlsa_i = DRNLSA_i(1024, 1, 0)
         # self.relu = nn.ReLU(inplace=True)
